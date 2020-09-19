@@ -4,11 +4,11 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
-| [What is SegWit?](https://bitcoinmagazine.com/guides/what-is-segwit) | 5 min | primer                  |
+| **[What is SegWit?](https://bitcoinmagazine.com/guides/what-is-segwit)** | 5 min | primer                  |
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) | 25 min |
 | [SegWit with Jimmy Song](https://www.youtube.com/watch?v=Txfy2mFe16A) | 27 min | technical, *optional* |
 | [SegWit's Impact on Scalability](https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/) | 30 min video | 2015, scale |
-| [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
+| **[The Long Road to SegWit]**(https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
 | [Advanced SegWit](https://www.youtube.com/watch?v=JgNgnwF9hfY) | 90 min video | advanced |
 | [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 min | technical |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 min | technical |
